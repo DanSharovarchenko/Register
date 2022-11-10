@@ -1,0 +1,16 @@
+.child {
+background-color: rgb(255, 0, 0);
+text-decoration: none ;
+}
+.btn{
+    border-radius: 1.1em;
+    background-color: brown;
+    color: white;
+ 
+}
+.btn1{
+    padding-left: 55px;
+}
+.title{
+    padding-left: 40px;
+}

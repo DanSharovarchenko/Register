@@ -1,0 +1,27 @@
+a {
+
+     
+    color: blue;
+    background-color: brown;
+    
+
+    
+}
+
+.active-link {
+   
+    background-color: rgb(255, 255, 255);
+}
+.btn{
+    text-decoration: none;
+    border-radius: 0.9em;
+}
+.btn1{
+    padding-left: 50px;
+}
+.btn2{
+    padding-left: 55px;
+}
+.btn3{
+    padding-left: 30px;
+}
